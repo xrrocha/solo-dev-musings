@@ -32,7 +32,7 @@ The documentation *described* the facilities. Group B *read* the documentation. 
 
 Notice what Naur does *not* claim: he does not claim that all written communication fails to transmit theory.
 
-Indeed, his own paper successfully transmits his theory to readers. Ryle's *The Concept of Mind* transmitted his epistemology. Kuhn's *The Structure of Scientific Revolutions* transmitted paradigm theory. Polanyi's writings transmitted the concept of tacit knowledge itself.
+Indeed, his own paper successfully transmits his theory to readers. [Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle)'s *The Concept of Mind* transmitted his epistemology. [Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn)'s *The Structure of Scientific Revolutions* transmitted paradigm theory. [Polanyi](https://en.wikipedia.org/wiki/Michael_Polanyi)'s writings transmitted the concept of tacit knowledge itself.
 
 ---
 

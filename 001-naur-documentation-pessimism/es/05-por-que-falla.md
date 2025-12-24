@@ -9,7 +9,7 @@ lang: es
 
 ![Iceberg](../img/05-iceberg.webp)
 
-Alistair Cockburn, comentando sobre Naur, sugiere que la documentación técnica falla porque apunta al objetivo equivocado.
+[Alistair Cockburn](https://en.wikipedia.org/wiki/Alistair_Cockburn), comentando sobre Naur, sugiere que la documentación técnica falla porque apunta al objetivo equivocado.
 
 ---
 

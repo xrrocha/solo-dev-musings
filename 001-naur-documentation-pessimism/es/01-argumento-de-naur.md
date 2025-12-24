@@ -15,7 +15,7 @@ El ensayo de Peter Naur "La programación como construcción de teoría" (1985) 
 
 ## Las Tres Capacidades
 
-Esta teoría, basándose en la epistemología de Gilbert Ryle (1949), abarca:
+Esta teoría, basándose en la epistemología de [Gilbert Ryle](https://es.wikipedia.org/wiki/Gilbert_Ryle) (1949), abarca:
 
 1. **Capacidad explicativa** — El programador puede explicar cómo la solución se relaciona con el mundo que aborda
 2. **Capacidad justificativa** — El programador puede explicar *por qué* cada parte es como es

@@ -23,13 +23,13 @@ Este argumento malinterpreta a Naur. Su pesimismo no está arraigado en los cost
 
 ## Los Testigos de la Imposibilidad
 
-Michael Polanyi, a quien Naur cita, lo hace vívido:
+[Michael Polanyi](https://es.wikipedia.org/wiki/Michael_Polanyi), a quien Naur cita, lo hace vívido:
 
 > "Es patético observar los esfuerzos interminables—equipados con microscopía y química, con matemáticas y electrónica—para reproducir un solo violín del tipo que el semi-analfabeto Stradivarius producía rutinariamente hace más de 200 años."
 
 Ninguna cantidad de esfuerzo documental podría capturar lo que Stradivarius sabía tácitamente.
 
-Christopher Alexander llegó a la misma conclusión en arquitectura. Su *Cualidad Sin Nombre*—la propiedad que hace que los espacios se sientan vivos en lugar de muertos—es inmediatamente reconocible pero indefinible. Alexander pasó años codificando patrones (*A Pattern Language*, 1977), produciendo 253 de ellos, pero reconoció que seguir los patrones no produce la cualidad. Como escribió:
+[Christopher Alexander](https://es.wikipedia.org/wiki/Christopher_Alexander) llegó a la misma conclusión en arquitectura. Su *Cualidad Sin Nombre*—la propiedad que hace que los espacios se sientan vivos en lugar de muertos—es inmediatamente reconocible pero indefinible. Alexander pasó años codificando patrones (*A Pattern Language*, 1977), produciendo 253 de ellos, pero reconoció que seguir los patrones no produce la cualidad. Como escribió:
 
 > "Hay una cualidad central que es el criterio raíz de vida y espíritu en un hombre, un pueblo, un edificio o un territorio silvestre. Esta cualidad es objetiva y precisa, pero no puede ser nombrada."
 

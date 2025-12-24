@@ -14,7 +14,7 @@ Peter Naur's "Programming as Theory Building" (1985) proposes that programming s
 
 ## The Three Capacities
 
-This theory, drawing on Gilbert Ryle's epistemology (1949), encompasses:
+This theory, drawing on [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle)'s epistemology (1949), encompasses:
 
 1. **Explanatory capacity** — The programmer can explain how the solution relates to the world it addresses
 2. **Justificatory capacity** — The programmer can explain *why* each part is what it is

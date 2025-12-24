@@ -22,7 +22,7 @@ Scholars who had never met an ancient Greek philosopher nonetheless acquired eno
 
 ## Mathematics
 
-Each generation of mathematicians builds on proofs and concepts transmitted through written works. Euclid's *Elements* transmitted geometric theory for over two millennia.
+Each generation of mathematicians builds on proofs and concepts transmitted through written works. [Euclid](https://en.wikipedia.org/wiki/Euclid)'s *Elements* transmitted geometric theory for over two millennia.
 
 The theory persists even when no living person possesses it through direct transmission. A student today can reconstruct Euclidean reasoning from the text alone.
 
@@ -30,7 +30,7 @@ The theory persists even when no living person possesses it through direct trans
 
 ## Scientific Paradigms
 
-Kuhn himself documented how scientific paradigms are transmitted through textbooks—written artifacts that somehow convey not just facts but *ways of seeing problems*.
+[Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) himself documented how scientific paradigms are transmitted through textbooks—written artifacts that somehow convey not just facts but *ways of seeing problems*.
 
 A physics student learns not only equations but how to recognize when each equation applies. This is theory transmission through documentation.
 

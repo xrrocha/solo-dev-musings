@@ -33,7 +33,7 @@ La documentación *describía* las facilidades. El Grupo B *leyó* la documentac
 
 Nótese lo que Naur *no* afirma: no afirma que toda comunicación escrita falla en transmitir teoría.
 
-De hecho, su propio artículo transmite exitosamente su teoría a los lectores. *El Concepto de Mente* de Ryle transmitió su epistemología. *La Estructura de las Revoluciones Científicas* de Kuhn transmitió la teoría de paradigmas. Los escritos de Polanyi transmitieron el concepto mismo del conocimiento tácito.
+De hecho, su propio artículo transmite exitosamente su teoría a los lectores. *El Concepto de Mente* de [Ryle](https://es.wikipedia.org/wiki/Gilbert_Ryle) transmitió su epistemología. *La Estructura de las Revoluciones Científicas* de [Kuhn](https://es.wikipedia.org/wiki/Thomas_Kuhn) transmitió la teoría de paradigmas. Los escritos de [Polanyi](https://es.wikipedia.org/wiki/Michael_Polanyi) transmitieron el concepto mismo del conocimiento tácito.
 
 ---
 

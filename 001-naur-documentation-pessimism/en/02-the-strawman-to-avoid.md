@@ -22,13 +22,13 @@ This argument misreads Naur. His pessimism is not rooted in labor costs but in t
 
 ## The Impossibility Witnesses
 
-Michael Polanyi, whom Naur cites, makes this vivid:
+[Michael Polanyi](https://en.wikipedia.org/wiki/Michael_Polanyi), whom Naur cites, makes this vivid:
 
 > "It is pathetic to watch the endless efforts—equipped with microscopy and chemistry, with mathematics and electronics—to reproduce a single violin of the kind the half-literate Stradivarius turned out as a matter of routine more than 200 years ago."
 
 No amount of documentation labor could capture what Stradivarius knew tacitly.
 
-Christopher Alexander reached the same conclusion in architecture. His *Quality Without a Name*—the property that makes spaces feel alive rather than dead—is immediately recognizable yet indefinable. Alexander spent years codifying patterns (*A Pattern Language*, 1977), producing 253 of them, yet acknowledged that following the patterns doesn't produce the quality. As he wrote:
+[Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) reached the same conclusion in architecture. His *Quality Without a Name*—the property that makes spaces feel alive rather than dead—is immediately recognizable yet indefinable. Alexander spent years codifying patterns (*A Pattern Language*, 1977), producing 253 of them, yet acknowledged that following the patterns doesn't produce the quality. As he wrote:
 
 > "There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named."
 

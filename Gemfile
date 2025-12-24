@@ -3,4 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "just-the-docs"
 gem "webrick"
-gem "jekyll-relative-links"
+
+group :jekyll_plugins do
+  gem "jekyll-relative-links"
+end

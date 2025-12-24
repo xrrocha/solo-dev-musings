@@ -24,7 +24,7 @@ This is closer to how theory is transmitted in apprenticeship: not through manua
 
 ## Historical Lineage
 
-This insight has lineage. Nearly a decade before Naur, Kernighan and Plauger recognized that learning happens through concrete examples, not abstract principles:
+This insight has lineage. Nearly a decade before Naur, [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Plauger](https://en.wikipedia.org/wiki/P._J._Plauger) recognized that learning happens through concrete examples, not abstract principles:
 
 > "Good programming is not learned from generalities, but by seeing how significant programs can be made clean, easy to read, easy to maintain and modify, human-engineered, efficient, and reliable, by the application of common sense and good programming practices. Careful study and imitation of good programs leads to better writing."
 

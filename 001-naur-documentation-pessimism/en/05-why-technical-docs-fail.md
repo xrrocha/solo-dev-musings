@@ -8,7 +8,7 @@ nav_exclude: true
 
 ![Iceberg](../img/05-iceberg.webp)
 
-Alistair Cockburn, commenting on Naur, suggests that technical documentation fails because it addresses the wrong target.
+[Alistair Cockburn](https://en.wikipedia.org/wiki/Alistair_Cockburn), commenting on Naur, suggests that technical documentation fails because it addresses the wrong target.
 
 ---
 

@@ -25,7 +25,7 @@ Esto es más cercano a cómo se transmite la teoría en el aprendizaje: no a tra
 
 ## Linaje Histórico
 
-Esta intuición tiene linaje. Casi una década antes de Naur, Kernighan y Plauger reconocieron que el aprendizaje ocurre a través de ejemplos concretos, no de principios abstractos:
+Esta intuición tiene linaje. Casi una década antes de Naur, [Kernighan](https://es.wikipedia.org/wiki/Brian_Kernighan) y [Plauger](https://en.wikipedia.org/wiki/P._J._Plauger) reconocieron que el aprendizaje ocurre a través de ejemplos concretos, no de principios abstractos:
 
 > "La buena programación no se aprende de generalidades, sino viendo cómo programas significativos pueden hacerse limpios, fáciles de leer, fáciles de mantener y modificar, diseñados para humanos, eficientes y confiables, mediante la aplicación del sentido común y buenas prácticas de programación. El estudio cuidadoso e imitación de buenos programas conduce a mejor escritura."
 
