@@ -1,6 +1,7 @@
 # Private working directory (separate git repo)
-.local/
+.claude/
 CLAUDE.md
+.local/
 
 # Jekyll build output
 _site/

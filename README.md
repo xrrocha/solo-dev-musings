@@ -25,8 +25,8 @@ Welcome.
 
 | Article | Topic | Language |
 |---------|-------|----------|
-| [On Naur's Documentation Pessimism](naur-documentation-pessimism/en/index.md) | What AI collaboration does and doesn't solve about theory transmission | EN |
-| [Sobre el Pesimismo Documental de Naur](naur-documentation-pessimism/es/index.md) | Qué resuelve y qué no resuelve la colaboración con IA | ES |
+| [On Naur's Documentation Pessimism](001-naur-documentation-pessimism/en/index.md) | What AI collaboration does and doesn't solve about theory transmission | EN |
+| [Sobre el Pesimismo Documental de Naur](001-naur-documentation-pessimism/es/index.md) | Qué resuelve y qué no resuelve la colaboración con IA | ES |
 
 ---
 
