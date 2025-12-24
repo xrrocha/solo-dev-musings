@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_exclude: true
+permalink: /
 ---
 
 # Solo Dev Musings
