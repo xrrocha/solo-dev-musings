@@ -1,0 +1,17 @@
+# Private working directory (separate git repo)
+.local/
+CLAUDE.md
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
