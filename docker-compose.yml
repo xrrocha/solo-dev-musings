@@ -5,7 +5,7 @@ services:
     command: >
       sh -c "apt-get update -qq &&
              apt-get install -y -qq build-essential > /dev/null &&
-             gem install bundler jekyll just-the-docs webrick -q &&
+             bundle install &&
              jekyll serve --watch --host 0.0.0.0 --livereload"
     ports:
       - "4000:4000"

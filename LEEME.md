@@ -3,14 +3,18 @@ layout: default
 nav_exclude: true
 ---
 
-# Reflexiones de un desarrollador solitario [🇺🇸](README.md)
+# Reflexiones de un desarrollador solitario
 
 <blockquote>
 <img src="img/ricardo-tokyo.webp" alt="Ricardo" align="left" width="80" hspace="15">
 En una época en que todos se preocupan por la monetización, los MVPs, los sprints ágiles y el escalamiento de equipos, tengo el raro privilegio de dedicar todo mi tiempo y energía a perseguir mi pasión de toda la vida: el software como artesanía y la programación como rama de la literatura.
 </blockquote>
 
----
+<p align="right" markdown="1">
+
+🇺🇸 [Read in English](README.md)
+
+</p>
 
 Amo a mis colegas desarrolladores. Amo a mis amigos que tienen empresas de software y navegan las realidades diarias de nóminas, plazos y expectativas de clientes. Pero en algún momento, nuestra industria parece haber olvidado que el software, el conocimiento y la estética tienen un valor intrínseco—más allá de las practicidades (y miserias) del software como negocio.
 
@@ -26,8 +30,6 @@ Estas son reflexiones de un desarrollador solitario que tiene el escaso lujo del
 Si estás aquí, probablemente eres de los pocos que todavía creen que la programación puede ser una forma de pensamiento, que la documentación puede transmitir comprensión, y que la calidad de nuestro trabajo importa incluso cuando nadie está mirando.
 
 Bienvenido.
-
-Nota bene: All articles have [an English version](README.md)!
 
 ---
 

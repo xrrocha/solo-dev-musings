@@ -3,14 +3,18 @@ layout: default
 nav_exclude: true
 ---
 
-# Solo Dev Musings [🇪🇸](LEEME.md)
+# Solo Dev Musings
 
 <blockquote>
 <img src="img/ricardo-tokyo.webp" alt="Ricardo" align="left" width="80" hspace="15">
 In a time when everyone is concerned with monetization, MVPs, agile sprints, and team scaling, I have the rare privilege of devoting all my time and energy to pursuing my lifelong passion for software-as-craft and coding-as-literary-genre.
 </blockquote>
 
----
+<p align="right" markdown="1">
+
+🇪🇸 [Leer en español](LEEME.md)
+
+</p>
 
 I love my fellow developers. I love my friends who own software houses and navigate the daily realities of payroll, deadlines, and client expectations. But somewhere along the way, our industry seems to have forgotten that software, knowledge, and aesthetics have intrinsic value—well beyond the practicalities (and miseries) of software-as-business.
 
@@ -26,8 +30,6 @@ These are musings from a solo developer who has the scarce luxury of time. They 
 If you're here, you're probably one of the few who still believes that programming can be a form of thought, that documentation can transmit understanding, and that the quality of our work matters even when no one is watching.
 
 Welcome.
-
-Nota bene: Todos los artículos tienen [versión en español](LEEME.md)!
 
 ---
 
