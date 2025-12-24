@@ -6,6 +6,8 @@ nav_exclude: true
 
 # Programming as Theory Building: A Summary
 
+![The Theory Bearer](../img/naur.webp)
+
 [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur) (1928–2016) was a Danish computer scientist, Turing Award recipient, and co-creator of Backus-Naur Form (BNF). In 1985, he published "Programming as Theory Building," a short but influential paper that reframes what programming fundamentally *is*.
 
 ---

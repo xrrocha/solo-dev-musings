@@ -7,6 +7,8 @@ lang: es
 
 # La Programación como Construcción de Teoría: Un Resumen
 
+![El Portador de la Teoría](../img/naur.webp)
+
 [Peter Naur](https://es.wikipedia.org/wiki/Peter_Naur) (1928–2016) fue un científico de la computación danés, ganador del Premio Turing y co-creador de la Forma Backus-Naur (BNF). En 1985 publicó "Programming as Theory Building," un ensayo breve pero influyente que replantea qué *es* fundamentalmente la programación.
 
 ---
