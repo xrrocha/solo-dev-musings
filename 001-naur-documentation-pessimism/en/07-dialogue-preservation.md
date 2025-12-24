@@ -41,3 +41,7 @@ AI collaboration lets us preserve not just the program but the *problem-solving 
 ---
 
 [← Previous](06-forced-articulation.md) | [Index](index.md) | [Next →](08-what-remains-unsolved.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

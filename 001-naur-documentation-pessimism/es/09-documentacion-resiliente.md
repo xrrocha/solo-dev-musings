@@ -59,3 +59,7 @@ Alguna pérdida en la transmisión es inevitable. El objetivo es minimizarla, no
 ---
 
 [← Anterior](08-sin-resolver.md) | [Índice](index.md) | [Siguiente →](10-conclusion.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

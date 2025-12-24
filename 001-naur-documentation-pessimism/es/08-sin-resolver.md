@@ -48,3 +48,7 @@ La mejor documentación sigue siendo solo material para la reconstrucción de te
 ---
 
 [← Anterior](07-preservacion-del-dialogo.md) | [Índice](index.md) | [Siguiente →](09-documentacion-resiliente.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

@@ -58,3 +58,7 @@ Some loss in transmission is inevitable. The goal is to minimize it, not elimina
 ---
 
 [← Previous](08-what-remains-unsolved.md) | [Index](index.md) | [Next →](10-conclusion.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

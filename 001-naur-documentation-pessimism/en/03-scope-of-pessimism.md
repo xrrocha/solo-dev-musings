@@ -50,3 +50,7 @@ Technical documentation fails at theory transmission not because documentation i
 ---
 
 [← Previous](02-the-strawman-to-avoid.md) | [Index](index.md) | [Next →](04-cultural-transmission.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

@@ -47,3 +47,7 @@ The best documentation is still only material for theory reconstruction. The rec
 ---
 
 [← Previous](07-dialogue-preservation.md) | [Index](index.md) | [Next →](09-toward-resilient-docs.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

@@ -45,3 +45,7 @@ We must not claim that AI "finally solves" the documentation problem. That would
 ---
 
 [← Previous](01-naurs-actual-argument.md) | [Index](index.md) | [Next →](03-scope-of-pessimism.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

@@ -37,3 +37,7 @@ The distinction matters. If the problem were time, more effort would solve it. I
 ---
 
 [← Preface](00-preface.md) | [Index](index.md) | [Next →](02-the-strawman-to-avoid.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

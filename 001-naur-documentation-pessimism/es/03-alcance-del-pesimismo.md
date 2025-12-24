@@ -51,3 +51,7 @@ La documentación técnica falla en la transmisión de teoría no porque la docu
 ---
 
 [← Anterior](02-argumento-falaz.md) | [Índice](index.md) | [Siguiente →](04-transmision-cultural.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

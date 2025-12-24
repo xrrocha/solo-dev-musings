@@ -49,3 +49,7 @@ These are theory-transmission devices, not artifact descriptions. They help the 
 ---
 
 [← Previous](04-cultural-transmission.md) | [Index](index.md) | [Next →](06-forced-articulation.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

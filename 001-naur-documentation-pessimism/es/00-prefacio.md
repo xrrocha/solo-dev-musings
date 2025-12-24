@@ -30,3 +30,7 @@ Incluimos esta advertencia explícitamente porque otros llegarán con la misma i
 ---
 
 [Índice](index.md) | [Siguiente: El Argumento Real de Naur →](01-argumento-de-naur.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

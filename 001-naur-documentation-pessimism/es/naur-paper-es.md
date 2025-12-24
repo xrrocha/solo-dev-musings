@@ -77,3 +77,7 @@ El ensayo original fue publicado en *Microprocessing and Microprogramming* (1985
 ---
 
 [← Volver al Índice](index.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

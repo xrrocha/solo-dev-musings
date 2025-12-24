@@ -46,3 +46,7 @@ No debemos afirmar que la IA "finalmente resuelve" el problema de documentación
 ---
 
 [← Anterior](01-argumento-de-naur.md) | [Índice](index.md) | [Siguiente →](03-alcance-del-pesimismo.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

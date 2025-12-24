@@ -55,3 +55,7 @@ Our goal is not to trap light in paper but to make the paper translucent enough 
 ---
 
 *This document is living. It evolves with our practice.*
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

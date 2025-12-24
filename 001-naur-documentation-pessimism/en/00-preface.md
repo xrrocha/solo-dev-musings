@@ -29,3 +29,7 @@ We include this caveat explicitly because others will arrive with the same intui
 ---
 
 [Index](index.md) | [Next: Naur's Actual Argument →](01-naurs-actual-argument.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

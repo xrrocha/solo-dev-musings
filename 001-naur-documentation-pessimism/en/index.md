@@ -4,6 +4,12 @@ title: "On Naur's Documentation Pessimism"
 nav_order: 1
 ---
 
+<p align="right" markdown="1">
+
+🇪🇸 [Leer en español](../es/)
+
+</p>
+
 # On Naur's Documentation Pessimism
 
 > ![TL;DR](../../img/tl-dr.webp) In 1985, Peter Naur argued that programming is theory-building, and that theory cannot be fully captured in documentation. **But his pessimism is narrower than supposed.** It applies to technical documentation of artifacts, not documentation as a human endeavor. AI doesn't "solve" the problem—but it creates conditions where theory transmission becomes more likely.
@@ -50,3 +56,7 @@ AI collaboration doesn't solve the documentation problem by reducing labor (that
 ---
 
 *This document is living. It evolves with our practice.*
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

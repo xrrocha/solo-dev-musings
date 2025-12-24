@@ -46,3 +46,7 @@ The AI is not the repository of theory. It is the occasion for articulating theo
 ---
 
 [← Previous](05-why-technical-docs-fail.md) | [Index](index.md) | [Next →](07-dialogue-preservation.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

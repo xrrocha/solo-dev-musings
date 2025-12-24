@@ -76,3 +76,7 @@ The original paper was published in *Microprocessing and Microprogramming* (1985
 ---
 
 [← Back to Index](index.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

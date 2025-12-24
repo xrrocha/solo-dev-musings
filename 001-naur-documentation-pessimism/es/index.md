@@ -5,6 +5,12 @@ nav_exclude: true
 lang: es
 ---
 
+<p align="right" markdown="1">
+
+🇺🇸 [Read in English](../en/)
+
+</p>
+
 # Sobre el Pesimismo Documental de Naur
 
 > ![TL;DR](../../img/tl-dr.webp) En 1985, Peter Naur argumentó que programar es construir teoría, y que la teoría no puede capturarse completamente en documentación. **Pero su pesimismo es más acotado de lo que se supone.** Se aplica a la documentación técnica de artefactos, no a la documentación como empresa humana. La IA no "resuelve" el problema, pero crea condiciones donde la transmisión de teoría se vuelve más probable.
@@ -51,3 +57,7 @@ La colaboración con IA no resuelve el problema de documentación reduciendo el 
 ---
 
 *Este documento está vivo. Evoluciona con nuestra práctica.*
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

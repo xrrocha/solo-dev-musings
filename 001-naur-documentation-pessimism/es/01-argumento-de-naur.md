@@ -38,3 +38,7 @@ La distinción importa. Si el problema fuera el tiempo, más esfuerzo lo resolve
 ---
 
 [← Prefacio](00-prefacio.md) | [Índice](index.md) | [Siguiente →](02-argumento-falaz.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

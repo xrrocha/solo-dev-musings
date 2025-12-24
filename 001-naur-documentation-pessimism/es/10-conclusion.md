@@ -56,3 +56,7 @@ Nuestro objetivo no es atrapar luz en papel sino hacer el papel lo suficientemen
 ---
 
 *Este documento está vivo. Evoluciona con nuestra práctica.*
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

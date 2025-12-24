@@ -50,3 +50,7 @@ Estos son dispositivos de transmisión de teoría, no descripciones de artefacto
 ---
 
 [← Anterior](04-transmision-cultural.md) | [Índice](index.md) | [Siguiente →](06-articulacion-forzada.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

@@ -47,3 +47,7 @@ La IA no es el repositorio de la teoría. Es la ocasión para articular la teor�
 ---
 
 [← Anterior](05-por-que-falla.md) | [Índice](index.md) | [Siguiente →](07-preservacion-del-dialogo.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

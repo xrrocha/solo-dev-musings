@@ -46,3 +46,7 @@ La respuesta yace en lo que contienen estos documentos exitosos: no solo QUÉ y 
 ---
 
 [← Anterior](03-alcance-del-pesimismo.md) | [Índice](index.md) | [Siguiente →](05-por-que-falla.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)

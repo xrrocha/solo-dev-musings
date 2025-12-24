@@ -45,3 +45,7 @@ The answer lies in what these successful documents contain: not just WHAT and HO
 ---
 
 [← Previous](03-scope-of-pessimism.md) | [Index](index.md) | [Next →](05-why-technical-docs-fail.md)
+
+---
+
+🏠 [Solo Dev Musings](../../README.md)

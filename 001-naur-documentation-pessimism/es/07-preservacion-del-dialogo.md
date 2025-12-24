@@ -42,3 +42,7 @@ La colaboración con IA nos permite preservar no solo el programa sino el *proce
 ---
 
 [← Anterior](06-articulacion-forzada.md) | [Índice](index.md) | [Siguiente →](08-sin-resolver.md)
+
+---
+
+🏠 [Reflexiones de un desarrollador solitario](../../LEEME.md)
