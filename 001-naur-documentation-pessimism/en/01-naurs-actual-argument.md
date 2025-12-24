@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "I. Naur's Actual Argument"
-nav_order: 2
+nav_exclude: true
 ---
 
 # I. Naur's Actual Argument

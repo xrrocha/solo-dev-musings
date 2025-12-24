@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Reflexiones de un desarrollador solitario [🇺🇸](README.md)
 
 <blockquote>
@@ -14,7 +19,7 @@ Este repositorio es un rincón tranquilo para un tipo diferente de trabajo:
 - **Curiosidad sobre utilidad** — explorar ideas porque son interesantes, no porque hay que entregarlas
 - **Profundidad sobre velocidad** — entender profundamente en lugar de entregar rápidamente
 - **Oficio sobre producto** — escribir código que enseña, no solo código que funciona
-- **Conocimiento por sí mismo** — porque algunas cosas valen la pena aunque no paguen
+- **Conocimiento por sí mismo** — porque algunas cosas valen la pena aunque no nos  paguen por ellas
 
 Estas son reflexiones de un desarrollador solitario que tiene el escaso lujo del tiempo. Están escritas en colaboración con IA—no para maximizar la producción, sino para pensar con más claridad y preservar el razonamiento detrás de cada idea.
 
@@ -30,7 +35,7 @@ Nota bene: All articles have [an English version](README.md)!
 
 | Artículo | Tema |
 |----------|------|
-| [Sobre el Pesimismo Documental de Naur](001-naur-documentation-pessimism/es/index.md) | Qué resuelve y qué no resuelve la colaboración con IA |
+| [Sobre el Pesimismo Documental de Naur](001-naur-documentation-pessimism/es/) | Qué resuelve y qué no resuelve la colaboración con IA |
 
 ---
 

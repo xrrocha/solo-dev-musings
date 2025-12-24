@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "V. Por Qué Falla la Documentación Técnica"
-nav_order: 6
+nav_exclude: true
 lang: es
 ---
 

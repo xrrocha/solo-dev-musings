@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Solo Dev Musings [🇪🇸](LEEME.md)
 
 <blockquote>
@@ -30,7 +35,7 @@ Nota bene: Todos los artículos tienen [versión en español](LEEME.md)!
 
 | Article | Topic |
 |---------|-------|
-| [On Naur's Documentation Pessimism](001-naur-documentation-pessimism/en/index.md) | What AI collaboration does and doesn't solve about theory transmission |
+| [On Naur's Documentation Pessimism](001-naur-documentation-pessimism/en/) | What AI collaboration does and doesn't solve about theory transmission |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IV. Cultural Transmission"
-nav_order: 5
+nav_exclude: true
 ---
 
 # IV. Evidence from Cultural Transmission

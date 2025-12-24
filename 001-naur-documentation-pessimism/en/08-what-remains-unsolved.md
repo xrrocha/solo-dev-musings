@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VIII. What Remains Unsolved"
-nav_order: 9
+nav_exclude: true
 ---
 
 # VIII. What Remains Unsolved

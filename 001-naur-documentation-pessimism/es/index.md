@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Sobre el Pesimismo Documental de Naur"
-nav_order: 0
+nav_exclude: true
 lang: es
 ---
 
 # Sobre el Pesimismo Documental de Naur
 
-> ![TL;DR](/img/tl-dr.webp) **El pesimismo de Naur es más acotado de lo que se supone.** Se aplica a la documentación técnica de artefactos, no a la documentación como empresa humana. La IA no "resuelve" el problema, pero crea condiciones donde la transmisión de teoría se vuelve más probable.
+> ![TL;DR](../../img/tl-dr.webp) **El pesimismo de Naur es más acotado de lo que se supone.** Se aplica a la documentación técnica de artefactos, no a la documentación como empresa humana. La IA no "resuelve" el problema, pero crea condiciones donde la transmisión de teoría se vuelve más probable.
 
 ---
 

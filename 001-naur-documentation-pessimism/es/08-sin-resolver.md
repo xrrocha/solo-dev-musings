@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VIII. Lo Que Permanece Sin Resolver"
-nav_order: 9
+nav_exclude: true
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VI. Forced Articulation"
-nav_order: 7
+nav_exclude: true
 ---
 
 # VI. Forced Articulation

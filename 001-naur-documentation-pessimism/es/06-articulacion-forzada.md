@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VI. Articulación Forzada"
-nav_order: 7
+nav_exclude: true
 lang: es
 ---
 

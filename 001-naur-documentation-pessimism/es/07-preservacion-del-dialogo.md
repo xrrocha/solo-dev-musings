@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VII. Preservación del Diálogo"
-nav_order: 8
+nav_exclude: true
 lang: es
 ---
 

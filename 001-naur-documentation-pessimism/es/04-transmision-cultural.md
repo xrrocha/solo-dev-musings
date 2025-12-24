@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IV. Transmisión Cultural"
-nav_order: 5
+nav_exclude: true
 lang: es
 ---
 

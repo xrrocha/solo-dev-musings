@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IX. Toward Resilient Docs"
-nav_order: 10
+nav_exclude: true
 ---
 
 # IX. Toward Theory-Resilient Documentation

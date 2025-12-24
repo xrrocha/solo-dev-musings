@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "I. El Argumento Real de Naur"
-nav_order: 2
+nav_exclude: true
 lang: es
 ---
 

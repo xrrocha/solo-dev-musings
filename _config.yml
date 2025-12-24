@@ -2,17 +2,22 @@ title: "Solo Dev Musings"
 description: "Software-as-craft, AI collaboration, and the philosophy of solo practice"
 author: "Ricardo (with Claude)"
 
+# GitHub Pages base URL (project site)
+baseurl: "/solo-dev-musings"
+
 # Theme - just-the-docs works well for multi-page documentation
+# remote_theme is used by GitHub Pages; theme is used locally
 remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 # Logo and branding
 # logo: "/img/logo.png"
 
 # Color scheme: light or dark
-color_scheme: dark
+color_scheme: light
 
-# Footer content
-footer_content: "This document is living. It evolves with our practice."
+# Footer content (empty - README has its own closing line)
+footer_content: ""
 
 # Enable search
 search_enabled: true
@@ -20,9 +25,8 @@ search:
   heading_level: 2
   previews: 3
 
-# Navigation
-nav_enabled: true
-nav_sort: order
+# Navigation - disabled for cleaner mobile experience
+nav_enabled: false
 
 # Back to top link
 back_to_top: true
@@ -53,6 +57,10 @@ kramdown:
     block:
       line_numbers: false
 
+# Plugins
+plugins:
+  - jekyll-relative-links
+
 # Exclude files from build
 exclude:
   - image-briefs.md
@@ -62,6 +70,7 @@ exclude:
   - vendor
   - .local
   - CLAUDE.md
+  - docker-compose.yml
 
 # Collections for multi-language support (future)
 # collections:

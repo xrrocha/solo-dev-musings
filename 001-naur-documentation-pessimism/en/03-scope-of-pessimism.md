@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "III. The Scope of Pessimism"
-nav_order: 4
+nav_exclude: true
 ---
 
 # III. The Scope of Naur's Pessimism

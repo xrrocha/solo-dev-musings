@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "II. The Strawman to Avoid"
-nav_order: 3
+nav_exclude: true
 ---
 
 # II. The Strawman to Avoid

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IX. Hacia una Documentación Resiliente"
-nav_order: 10
+nav_exclude: true
 lang: es
 ---
 

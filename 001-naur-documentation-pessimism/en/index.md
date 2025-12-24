@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "On Naur's Documentation Pessimism"
-nav_order: 0
+nav_order: 1
 ---
 
 # On Naur's Documentation Pessimism
 
-> ![TL;DR](/img/tl-dr.webp) **Naur's pessimism is narrower than supposed.** It applies to technical documentation of artifacts, not documentation as a human endeavor. AI doesn't "solve" the problem—but it creates conditions where theory transmission becomes more likely.
+> ![TL;DR](../../img/tl-dr.webp) **Naur's pessimism is narrower than supposed.** It applies to technical documentation of artifacts, not documentation as a human endeavor. AI doesn't "solve" the problem—but it creates conditions where theory transmission becomes more likely.
 
 ---
 

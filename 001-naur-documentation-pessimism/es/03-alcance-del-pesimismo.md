@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "III. El Alcance del Pesimismo"
-nav_order: 4
+nav_exclude: true
 lang: es
 ---
 

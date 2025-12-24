@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "V. Why Technical Docs Fail"
-nav_order: 6
+nav_exclude: true
 ---
 
 # V. Why Technical Documentation Fails

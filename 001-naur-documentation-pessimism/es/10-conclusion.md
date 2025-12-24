@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "X. Conclusión"
-nav_order: 11
+nav_exclude: true
 lang: es
 ---
 
