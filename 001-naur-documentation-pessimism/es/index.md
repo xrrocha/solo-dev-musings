@@ -17,8 +17,6 @@ Peter Naur argumentó que programar es construir teoría, y que la teoría no pu
 
 La colaboración con IA no resuelve el problema de documentación reduciendo el esfuerzo (eso malinterpreta el argumento epistemológico de Naur). Pero sí crea condiciones novedosas: articulación forzada, diálogo preservado, iteración con menor fricción. Estas hacen más probable la transmisión de teoría, aunque nunca sea completa.
 
-Este documento fue escrito por un humano y una IA trabajando juntos. Lo revelamos porque la filosofía de Naur, formulada en 1985, ofrece una guía inesperadamente precisa para la colaboración humano-IA.
-
 ---
 
 ## Capítulos

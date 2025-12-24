@@ -25,7 +25,7 @@ Este repositorio es un rincón tranquilo para un tipo diferente de trabajo:
 - **Oficio sobre producto** — escribir código que enseña, no solo código que funciona
 - **Conocimiento por sí mismo** — porque algunas cosas valen la pena aunque no nos  paguen por ellas
 
-Estas son reflexiones de un desarrollador solitario que tiene el escaso lujo del tiempo. Están escritas en colaboración con IA—no para maximizar la producción, sino para pensar con más claridad y preservar el razonamiento detrás de cada idea.
+Estas son reflexiones de un desarrollador solitario que tiene el escaso lujo del tiempo.
 
 Si estás aquí, probablemente eres de los pocos que todavía creen que la programación puede ser una forma de pensamiento, que la documentación puede transmitir comprensión, y que la calidad de nuestro trabajo importa incluso cuando nadie está mirando.
 

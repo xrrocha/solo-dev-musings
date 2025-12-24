@@ -16,8 +16,6 @@ Peter Naur argued that programming is theory building, and that theory cannot be
 
 AI collaboration doesn't solve the documentation problem by reducing labor (that misreads Naur's epistemological argument). But it creates novel conditions: forced articulation, preserved dialogue, lower-friction iteration. These make theory transmission more likely, even if never complete.
 
-This document was written by a human and an AI working together. We reveal this because Naur's philosophy, formulated in 1985, offers unexpectedly precise guidance for human-AI collaboration.
-
 ---
 
 ## Chapters

@@ -25,7 +25,7 @@ This repository is a quiet corner for a different kind of work:
 - **Craft over product** — writing code that teaches, not just code that runs
 - **Knowledge for its own sake** — because some things are worth knowing even if they don't pay
 
-These are musings from a solo developer who has the scarce luxury of time. They are written in collaboration with AI—not to maximize output, but to think more clearly and preserve the reasoning behind each insight.
+These are musings from a solo developer who has the scarce luxury of time.
 
 If you're here, you're probably one of the few who still believes that programming can be a form of thought, that documentation can transmit understanding, and that the quality of our work matters even when no one is watching.
 
