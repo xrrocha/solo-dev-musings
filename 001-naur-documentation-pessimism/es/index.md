@@ -8,6 +8,7 @@ lang: es
 <p align="right" markdown="1">
 
 🇺🇸 [Read in English](../en/)
+📖 [Leer en una sola página](001-naur-documentation-pessimism.md)
 
 </p>
 
