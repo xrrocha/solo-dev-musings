@@ -7,6 +7,7 @@ nav_order: 1
 <p align="right" markdown="1">
 
 🇪🇸 [Leer en español](../es/001-naur-documentation-pessimism.md)
+<br>
 📃 [Read in Chapters](index.md)
 
 </p>
