@@ -155,7 +155,7 @@ That which, under innumerable names, we go on calling consciousness.
 
 ------
 
-[1] Vanchurián, *De architectura vivente caelorum* (ms., ca. 1671). The work, composed in classical Armenian with glosses in Persian, was preserved in the monastery of Vank, in Isfahan, until its dispersal during the Afghan wars. A fragment, translated into Latin by a Carmelite missionary whose name has been lost, circulated briefly in academic circles in Leiden before being forgotten.
+[1] Vanchurián, *De architectura vivente caelorum* (ms., ca. 1671). The work, composed in classical Armenian with glosses in Persian, was preserved in the monastery of Vank, in Isfahan, until its dispersal during the Afghan wars. A fragment, translated into Latin by a Carmelite missionary whose name has been lost, circulated briefly in academic circles in Leiden before being forgotten. A certain oral tradition, collected among the *sarmoung* of the region, attributes to Vanchurián a maxim the manuscript does not reproduce but which perhaps summarizes it: that the man who believes he thinks an idea is thought by it.
 
 [2] Cf. Hoffmann-Eschenbach, *op. cit.*
 

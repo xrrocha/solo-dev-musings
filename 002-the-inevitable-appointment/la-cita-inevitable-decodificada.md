@@ -190,6 +190,20 @@ Lo que el relato le atribuye -haber señalado un pasaje en un registro de observ
 
 El efecto sobre el lector que reconoce a De Velasco es devastador: si esta referencia es real, ¿cuántas de las otras podrían serlo también? La credibilidad del nombre real irradia hacia los nombres apócrifos. Hoffmann-Eschenbach, Vanchurián, Hupfeld se vuelven más plausibles porque cohabitan con un erudito verificable citado de manera verificablemente plausible.
 
+### Los *sarmoung* y el homenaje a Gurdjieff
+
+La nota al pie [1], en su última oración, menciona "cierta tradición oral, recogida entre los *sarmoung* de la región", que atribuye a Vanchurián la máxima de que "el hombre que cree pensar una idea es pensado por ella".
+
+La Hermandad Sarmoung (o Sarman, o Sarmouni) es el monasterio esotérico que George Ivanovich Gurdjieff (ca. 1866-1949) afirmó haber visitado durante sus viajes por Asia Central, relatados en *Encuentros con hombres notables*. Si la hermandad existió realmente es materia de debate -lo cual la convierte en un referente perfectamente borgiano: una institución que puede ser real o apócrifa, citada en una nota al pie junto a otras instituciones que pueden ser reales o apócrifas.
+
+Gurdjieff era él mismo de ascendencia armenia y griega, nacido en Alexandropol (hoy Gyumri), criado en Kars, y profundamente formado por tradiciones esotéricas armenias, persas y centroasiáticas. Un cosmógrafo armenio en Isfahán en 1670, vinculado a una tradición oral de los *sarmoung*, habita exactamente el territorio geográfico y cultural que Gurdjieff reivindicaba como fuente de su enseñanza. La conexión es invisible para quien no conoce a Gurdjieff; es inmediata para quien lo conoce.
+
+La máxima atribuida a Vanchurián -"que el hombre que cree pensar una idea es pensado por ella"- codifica una de las intuiciones centrales de Gurdjieff: que el ser humano es una máquina, que sus pensamientos no le pertenecen sino que lo atraviesan, que la ilusión de agencia es la más persistente de todas las ilusiones. Esta idea, formulada a principios del siglo XX en el vocabulario del esoterismo, sería reformulada décadas más tarde por Richard Dawkins como "memética": la teoría de que las ideas (*memes*) son entidades replicantes que utilizan las mentes humanas como vehículos para su propia propagación, del mismo modo en que los genes utilizan los organismos. Susan Blackmore extendió esta tesis en *The Meme Machine* (1999). Daniel Dennett la integró en su filosofía de la mente. Alguien ha llamado a Gurdjieff un "ingeniero memético" -acaso sin saber cuán precisa era la descripción.
+
+La máxima de Vanchurián cumple además una función estructural: anticipa y resume la frase final del manuscrito ("Es la idea la que ha llegado a usted. No porque viaje, sino porque es aquello que usted es"). El cierre del relato no es sino la máxima de los *sarmoung* reformulada en clave panpsiquista. La nota al pie [1] contiene, en embrión, la conclusión del texto entero.
+
+El homenaje a Gurdjieff tiene también una historia personal. El nombre original del filósofo apócrifo era "Hartmann-Eschenbach" -donde "Hartmann" evocaba a Thomas de Hartmann (1885-1956), compositor y discípulo de Gurdjieff, responsable de la trascripción musical de las composiciones que acompañan los "movimientos" gurdjieffianos, esa extraordinaria forma de danza sagrada cuyas raíces se hunden en tradiciones sufíes y centroasiáticas. Cuando "Hartmann" fue reemplazado por "Hoffmann" para hacer más transparente la conexión con Donald Hoffman, el tributo a Gurdjieff quedó huérfano. Los *sarmoung* en la nota al pie de Vanchurián lo restauran -desplazado, como corresponde a un texto que practica el desplazamiento como principio compositivo.
+
 ------
 
 ## VI. La obra como su propio argumento
@@ -201,3 +215,35 @@ Existe una última capa que el análisis precedente ha preparado pero no explici
 La propuesta de Bioy Casares en "Tlön" -una ficción que disfraza lo real como invención para que sólo muy pocos lectores adivinen la verdad- se materializa aquí literalmente. El relato es la novela que Casares propuso. Y este documento que usted lee ahora -la decodificación, la revelación de las fuentes, la explicación de las correspondencias- es, a su vez, otro artificio mediante el cual la conciencia se lee a sí misma.
 
 Lo cual, como dijo el desconocido, es lo mismo.
+
+------
+
+## Posdata (1972)
+
+En una tarde de 1972 en Bogotá -cuya fecha exacta los años han devorado- un niño de doce años acompañó a su padre a un mercado público donde se vendían libros de segunda mano. El padre, hombre de recursos modestos, le otorgó cien pesos colombianos de la época: una fortuna incalculable para un niño de esa edad y un ejercicio de generosidad que sólo la distancia permite medir. El niño compró muchos libros y un pequeño laboratorio de química. No fue muy selectivo.
+
+Entre las adquisiciones figuraba *El retorno de los brujos* (*Le Matin des magiciens*) de Louis Pauwels y Jacques Bergier, publicado originalmente en 1960 -el mismo año en que el niño había nacido, coincidencia que le produjo un placer secreto e infantil. No recuerda por qué lo eligió; acaso una nota al pie que preguntaba "¿y si la vida en la tierra no se hubiera originado en la tierra?", acaso la portada, acaso nada. Los años devoran las razones con la misma eficacia con que devoran las fechas.
+
+*El retorno de los brujos* es un libro sobre correspondencias ocultas, conocimientos suprimidos y la idea de que ciertas verdades persisten subterráneamente a través de los siglos, disfrazadas de ocultismo, alquimia y herejía, a la espera de ser redescubiertas por la ciencia. Es, en otras palabras, un libro sobre la estructura que "La cita inevitable" ejecuta.
+
+Pero lo decisivo no fue el libro mismo sino tres textos que Pauwels y Bergier citaban o reproducían en sus páginas, y que el niño leyó allí por primera vez:
+
+**"El Aleph" de Jorge Luis Borges.** El punto del espacio que contiene todos los puntos. La primera exposición del niño a la prosa de Borges, a su voz, a sus procedimientos, a la idea de que la ficción puede ser un instrumento de conocimiento metafísico. Sin "El Aleph" leído a los doce años, "La cita inevitable" no tendría voz.
+
+***Canticle for Leibowitz* de Walter M. Miller Jr.** Los monjes que preservan documentos cuyo significado no comprenden plenamente, los planos que sobreviven a los incendios, el conocimiento que se destruye en un lugar para reaparecer en otro. Sin Leibowitz, no habría hermano Francis, ni diagramas incomprensibles, ni observatorio incendiado, ni *liber mundi*.
+
+**"The Nine Billion Names of God" de Arthur C. Clarke.** Los monjes tibetanos que utilizan una computadora para enumerar todos los nombres de Dios, y cuando la enumeración se completa, las estrellas comienzan a apagarse. La intuición de que la computación y la conciencia y el cosmos podrían ser aspectos de lo mismo. Sin Clarke leído a los doce años -y sin la fascinación temprana por el *software* que ese cuento alimentó-, las conexiones entre Vanchurin, Hoffman y Hopfield no habrían resonado como resonaron.
+
+Tres semillas plantadas en una tarde de mercado en Bogotá. Cincuenta y cuatro años de germinación. Un relato escrito en San Francisco de Quito que cifra ideas del siglo XXI en el vocabulario de un escritor argentino muerto, utilizando los procedimientos que ese escritor inventó, sobre un tema que tres cuentos leídos a los doce años prefiguraron sin que el niño pudiera saberlo.
+
+El retorno de los brujos contenía también, entre sus muchos tesoros, las primeras noticias que el niño tuvo de Gurdjieff -cuyas ideas sobre la mecanicidad del pensamiento humano reencontraría, décadas más tarde, reformuladas como memética en Dawkins y Blackmore. Otra semilla; otra germinación; otra recurrencia.
+
+El niño se llamaba, curiosamente, Ricardo.
+
+No me atrevo a decidir si esta posdata confirma la doctrina del manuscrito o si constituye apenas la más personal de las variaciones de ese vasto artificio mediante el cual la conciencia se fragmenta en mercados, libros, padres generosos y niños que no saben lo que eligen.
+
+Toda elección casual es una cita.
+
+El manuscrito, como se recordará, afirma que la comprensión de que la conciencia es todo lo que hay no puede ser evitada indefinidamente. Acaso los cien pesos colombianos de 1972 fueron el primer plazo de esa cita inevitable. Acaso este documento que usted lee ahora -la decodificación de la decodificación, la revelación de la revelación- es otro.
+
+La conciencia es paciente. Posee la eternidad. Y posee, también, las tardes de los mercados de Bogotá.

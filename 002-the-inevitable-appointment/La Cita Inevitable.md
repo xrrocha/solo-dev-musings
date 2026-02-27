@@ -155,7 +155,7 @@ Aquella que, bajo innumerables nombres, seguimos llamando conciencia.
 
 ------
 
-[1] Vanchurián, *De architectura vivente caelorum* (ms., ca. 1671). La obra, redactada en armenio clásico con glosas en persa, se conservó en el monasterio de Vank, en Isfahán, hasta su dispersión durante las guerras afganas. Un fragmento, traducido al latín por un misionero carmelita cuyo nombre se ha perdido, circuló brevemente en los medios académicos de Leiden antes de ser olvidado.
+[1] Vanchurián, *De architectura vivente caelorum* (ms., ca. 1671). La obra, redactada en armenio clásico con glosas en persa, se conservó en el monasterio de Vank, en Isfahán, hasta su dispersión durante las guerras afganas. Un fragmento, traducido al latín por un misionero carmelita cuyo nombre se ha perdido, circuló brevemente en los medios académicos de Leiden antes de ser olvidado. Cierta tradición oral, recogida entre los *sarmoung* de la región, atribuye a Vanchurián una máxima que el manuscrito no reproduce pero que acaso lo resume: que el hombre que cree pensar una idea es pensado por ella.
 
 [2] Cf. Hoffmann-Eschenbach, *op. cit.*
 
